@@ -192,8 +192,7 @@ Through this project, the following concepts were practiced:
 GitHub:  
 https://github.com/Jignash-GH
 
-LinkedIn:  
-(Add Your LinkedIn Profile)
+
 
 ---
 
